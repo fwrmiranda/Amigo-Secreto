@@ -1,5 +1,6 @@
 # Amigo-Secreto
 Este projeto implementa um sistema simples de "Amigo Secreto" utilizando JavaScript. Ele permite que os usuários adicionem nomes a uma lista e realizem um sorteio para selecionar aleatoriamente um dos nomes como o amigo secreto.
+Link: https://amigo-secreto-three-kappa.vercel.app/
 <h2>Funcionalidade</h2> 
 <ul><strong>Adicionar Amigo:</strong> Insira nomes em uma lista. </ul>
 <ul><strong>Validar Entrada: </strong>Certifica-se de que os nomes não estejam vazios antes de adicioná-los à lista. </ul>
